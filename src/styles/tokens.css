@@ -1,0 +1,16 @@
+/* src/styles/tokens.css */
+:root {
+  --bg-surface: #f8f5f2;
+  --bg-elevated: #fffdfa;
+  --text-primary: #29232b;
+  --text-muted: #706a73;
+  --accent-primary: #7652a3;
+  --accent-secondary: #805b78;
+  --card-tonal-1: #f2e3ed;
+  --card-tonal-2: #e2eee6;
+  --card-tonal-3: #f4ead5;
+  --card-tonal-4: #e9e4f4;
+  --card-radius: 28px;
+  --font-scale: 1;
+  --card-density: 1;
+}
